@@ -7,5 +7,6 @@ This repository contains my daily Python practice.
 -  Odd/even
 -  Arithmetic Operator
 -  Division
+-  Loop
 
 I am learning Python to become a Software Developer.
