@@ -10,5 +10,6 @@ This repository contains my daily Python practice.
 -  Loop
 -  Day 2:
 -  Student Details
+-  ASCII Values - I
 
 I am learning Python to become a Software Developer.
