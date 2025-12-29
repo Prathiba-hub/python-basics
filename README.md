@@ -11,7 +11,8 @@ This repository contains my daily Python practice.
 -  Day 2:
 -  Student Details
 -  ASCII Values - I
--   ASCII Values - II
--   Round Off
+-  ASCII Values - II
+-  Round Off
+-  Fencing the Ground
 
 I am learning Python to become a Software Developer.
