@@ -11,5 +11,6 @@ This repository contains my daily Python practice.
 -  Day 2:
 -  Student Details
 -  ASCII Values - I
+-   ASCII Values - II
 
 I am learning Python to become a Software Developer.
