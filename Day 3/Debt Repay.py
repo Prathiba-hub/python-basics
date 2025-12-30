@@ -1,0 +1,11 @@
+p=float(input())
+i=float(input())
+y=float(input())
+ins=(p*i*y)/100
+print(f"{ins:.2f}")
+amt=p+ins
+print(f"{amt:.2f}")
+dic=ins*2/100
+print(f"{dic:.2f}")
+fin=amt-dic
+print(f"{fin:.2f}")
