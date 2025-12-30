@@ -18,5 +18,6 @@ This repository contains my daily Python practice.
 -  The Newspaper Agency
 -  Harry Potter
 -  Splitting into the teams
+-  Debt Repay
 
 I am learning Python to become a Software Developer.
