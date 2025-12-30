@@ -17,5 +17,6 @@ This repository contains my daily Python practice.
 -  Day 3:
 -  The Newspaper Agency
 -  Harry Potter
+-  Splitting into the teams
 
 I am learning Python to become a Software Developer.
