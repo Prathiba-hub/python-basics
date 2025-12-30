@@ -16,5 +16,6 @@ This repository contains my daily Python practice.
 -  Fencing the Ground
 -  Day 3:
 -  The Newspaper Agency
+-  Harry Potter
 
 I am learning Python to become a Software Developer.
