@@ -14,5 +14,7 @@ This repository contains my daily Python practice.
 -  ASCII Values - II
 -  Round Off
 -  Fencing the Ground
+-  Day 3:
+-  The Newspaper Agency
 
 I am learning Python to become a Software Developer.
