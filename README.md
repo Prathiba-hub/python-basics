@@ -19,5 +19,6 @@ This repository contains my daily Python practice.
 -  Harry Potter
 -  Splitting into the teams
 -  Debt Repay
+-  3 Psychos
 
 I am learning Python to become a Software Developer.
