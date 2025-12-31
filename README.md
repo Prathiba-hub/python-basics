@@ -24,5 +24,7 @@ This repository contains my daily Python practice.
 -  Hop n Hop
 -  Dollars & Cents
 -  Treasure Hunter
+-  Reverse a 3-digit number
+-  Tic Tac Toe
 
 I am learning Python to become a Software Developer.
