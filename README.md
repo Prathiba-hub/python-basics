@@ -20,5 +20,7 @@ This repository contains my daily Python practice.
 -  Splitting into the teams
 -  Debt Repay
 -  3 Psychos
+-  Day 4
+-  Hop n Hop
 
 I am learning Python to become a Software Developer.
