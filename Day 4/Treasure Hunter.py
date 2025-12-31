@@ -1,0 +1,13 @@
+total=int(input())
+ben=int(input())
+black=int(input())
+val1=total*(ben/100)
+val1=int(val1)
+ans1=total-val1
+val2=ans1*(black/100)
+val2=int(val2)
+ans2=total-(val1+val2)
+val3=ans2/3
+print(val1)
+print(val2)
+print(int(val3))
