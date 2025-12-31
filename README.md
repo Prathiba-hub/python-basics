@@ -23,5 +23,6 @@ This repository contains my daily Python practice.
 -  Day 4
 -  Hop n Hop
 -  Dollars & Cents
+-  Treasure Hunter
 
 I am learning Python to become a Software Developer.
