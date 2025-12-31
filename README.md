@@ -22,5 +22,6 @@ This repository contains my daily Python practice.
 -  3 Psychos
 -  Day 4
 -  Hop n Hop
+-  Dollars & Cents
 
 I am learning Python to become a Software Developer.
