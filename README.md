@@ -8,6 +8,7 @@ This repository contains my daily Python practice.
 -  Arithmetic Operator
 -  Division
 -  Loop
+-  Gift for Birthday
 -  # Day 2
 -  Student Details
 -  ASCII Values - I
@@ -32,5 +33,11 @@ This repository contains my daily Python practice.
 -  Online shopping
 -  Checking Alphabets
 -  Electricity Bill
+-  # Day 6
+-  Trendy number
+-  Time Sheet
+-  Number of Days
+-  Scholarship
+-  Mango tree
 
 I am learning Python to become a Software Developer.
