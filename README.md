@@ -39,5 +39,11 @@ This repository contains my daily Python practice.
 -  Number of Days
 -  Scholarship
 -  Mango tree
+-  # Day 7
+-  Cricket
+-  Multiplication Table
+-  Print Prime Numbers in a range
+-  Special number
+-  Amoeba Multiplication
 
 I am learning Python to become a Software Developer.
