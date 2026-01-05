@@ -1,5 +1,11 @@
-a = int(input());
-b = int(input());
+# Day 1
+# Problem: Division Operators
+# Platform: HackerRank
+# Topic: Python Basics
+# Language: Python
 
-print(a//b);
-print(a/b);
+a = int(input())
+b = int(input())
+
+print(a // b)   # Integer division
+print(a / b)    # Float division
