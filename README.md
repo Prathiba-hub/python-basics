@@ -51,5 +51,11 @@ This repository contains my daily Python practice.
 -  Treasure Finder
 -  Collatz problem
 -  Strong Number
+-  # Day 9
+-  Inverted right-angled triangle
+-  Sum of digit till single digit
+-  Kaprekar number
+-  Trapezium Pattern
+-  Same or Not
 
 I am learning Python to become a Software Developer.
