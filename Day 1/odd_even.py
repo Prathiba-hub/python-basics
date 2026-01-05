@@ -1,6 +1,12 @@
-num = int(input());
+# Day 1
+# Problem: Odd or Even (Weird / Not Weird)
+# Platform: HackerRank
+# Topic: Conditional Statements
+# Language: Python
 
-if num%2 == 0 :
-    print("Not Weird");
+num = int(input())
+
+if num % 2 == 0:
+    print("Not Weird")
 else:
-    print("Weird");
+    print("Weird")
