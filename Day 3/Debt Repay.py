@@ -1,11 +1,26 @@
-p=float(input())
-i=float(input())
-y=float(input())
-ins=(p*i*y)/100
-print(f"{ins:.2f}")
-amt=p+ins
+# Day 3
+# Problem: Debt Repay
+# Platform: HackerRank
+# Topic: Python Basics / Arithmetic
+# Language: Python
+
+# Input principal, interest rate, and years
+p = float(input())  # Principal
+i = float(input())  # Interest rate (annual)
+y = float(input())  # Number of years
+
+# Calculate simple interest
+ins = (p * i * y) / 100
+print(f"{ins:.2f}")  # Print interest with 2 decimal places
+
+# Calculate total amount after adding interest
+amt = p + ins
 print(f"{amt:.2f}")
-dic=ins*2/100
+
+# Calculate discount on interest (2%)
+dic = ins * 2 / 100
 print(f"{dic:.2f}")
-fin=amt-dic
+
+# Calculate final amount after discount
+fin = amt - dic
 print(f"{fin:.2f}")
