@@ -45,5 +45,11 @@ This repository contains my daily Python practice.
 -  Print Prime Numbers in a range
 -  Special number
 -  Amoeba Multiplication
+-  # Day 8
+-  Number Series
+-  Hollow square pattern
+-  Treasure Finder
+-  Collatz problem
+-  Strong Number
 
 I am learning Python to become a Software Developer.
