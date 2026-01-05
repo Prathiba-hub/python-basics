@@ -1,3 +1,8 @@
-letter = input();
+# Day 2
+# Problem: ASCII Value
+# Platform: HackerRank
+# Topic: Python Basics
+# Language: Python
 
-print(ord(letter));
+letter = input()
+print(ord(letter))
