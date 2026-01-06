@@ -1,15 +1,18 @@
-num=int(input())
-n1=0
-n2=1
-count=0
-if num==1:
-    print("1")
-elif num>0:
-    while num-1>count:
-        n3=n1+n2
-        n1=n2
-        n2=n3
-        count+=1
-print(n1)
+# Day 7
+# Problem: Amoeba Multiplication
+# Platform: HackerRank
+# Topic: Python Loops / Arithmetic
+# Language: Python
 
-    
+# Input number of amoebas
+amoebas = int(input())
+
+# Initialize population
+population = 1
+
+# Multiply amoebas every hour for the given number
+for _ in range(amoebas):
+    population *= 2
+
+# Print the final population
+print(population)
