@@ -74,6 +74,10 @@ I am learning Python to become a **Software Developer** and improve my problem-s
 
 ### 📅 Day 10
 - Count distinct elements
+- Compatible array
+- Sum of even numbers and odd numbers
+- Ascending order
+- Queue
 
 ## 🛠 Platform
 - HackerRank
