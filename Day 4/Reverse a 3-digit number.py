@@ -1,9 +1,16 @@
-import string
-num=int(input())
-val=str(num)
-ans=val[-1]
-ans1=val[-2]
-a=ans+ans1
-ans3=val[-3]
-b=a+ans3
-print(int(b))
+# Day 4
+# Problem: Reverse a 3-Digit Number
+# Platform: HackerRank
+# Topic: Python Basics / Strings
+# Language: Python
+
+num = int(input())
+
+# Convert number to string
+val = str(num)
+
+# Reverse the number using string slicing
+reversed_num = val[::-1]
+
+# Print reversed number
+print(int(reversed_num))
