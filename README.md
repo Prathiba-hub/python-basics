@@ -72,6 +72,9 @@ I am learning Python to become a **Software Developer** and improve my problem-s
 - Trapezium Pattern
 - Same or Not
 
+### 📅 Day 10
+- Count distinct elements
+
 ## 🛠 Platform
 - HackerRank
 
