@@ -1,10 +1,22 @@
-n=int(input())
-m=int(input())
-for i in range(n,m+1):
-    last=i%10
-    first=i//10
-    sum1=first+last
-    product=first*last
-    sum2=sum1+product
-    if sum2==i:
-        print(i,end="\n")
+# Day 7
+# Problem: Special Number
+# Platform: HackerRank
+# Topic: Python Loops / Arithmetic
+# Language: Python
+
+# Input range
+n = int(input("Enter the starting number: "))
+m = int(input("Enter the ending number: "))
+
+# Loop through numbers in the range
+for num in range(n, m + 1):
+    first_digit = num // 10
+    last_digit = num % 10
+
+    sum_digits = first_digit + last_digit
+    product_digits = first_digit * last_digit
+    total = sum_digits + product_digits
+
+    # Check if the number is a Special Number
+    if total == num:
+        print(num)
