@@ -79,6 +79,13 @@ I am learning Python to become a **Software Developer** and improve my problem-s
 - Ascending order
 - Queue
 
+### 📅 Day 11
+- Array insertion
+- Remove duplicate elements
+- Online Game
+- Toyland
+- Pair the Container
+
 ## 🛠 Platform
 - HackerRank
 
