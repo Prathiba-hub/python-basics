@@ -86,6 +86,13 @@ I am learning Python to become a **Software Developer** and improve my problem-s
 - Toyland
 - Pair the Container
 
+### 📅 Day 12
+- Smallest Positive Missing Number
+- Transpose Matrix
+- Upper triangular matrix
+- Maximum element in each column
+- Matrix Multiplication
+  
 ## 🛠 Platform
 - HackerRank
 
