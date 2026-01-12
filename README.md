@@ -99,6 +99,13 @@ I am learning Python to become a **Software Developer** and improve my problem-s
 - Uniformity Matrix
 - Magic Square
 - Sum of rows and columns
+
+### 📅 Day 14
+- Spiral Pattern
+- Matrix Rotation
+- Factorial of a Number
+- Number of digits
+- Sum of Array Elements
   
 ## 🛠 Platform
 - HackerRank
