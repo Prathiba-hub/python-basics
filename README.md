@@ -92,6 +92,13 @@ I am learning Python to become a **Software Developer** and improve my problem-s
 - Upper triangular matrix
 - Maximum element in each column
 - Matrix Multiplication
+
+### 📅 Day 13
+- Sum of Zig-Zag
+- Move all zeroes
+- Uniformity Matrix
+- Magic Square
+- Sum of rows and columns
   
 ## 🛠 Platform
 - HackerRank
