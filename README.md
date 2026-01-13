@@ -106,6 +106,13 @@ I am learning Python to become a **Software Developer** and improve my problem-s
 - Factorial of a Number
 - Number of digits
 - Sum of Array Elements
+
+### 📅 Day 15
+- Fibonacci Series
+- Compute a^n
+- Sum of Positive Odd Numbers
+- Maximum Element in an Array
+- Prime Number
   
 ## 🛠 Platform
 - HackerRank
