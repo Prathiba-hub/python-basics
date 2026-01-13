@@ -1,18 +1,28 @@
-num=int(input())
-num2=num*num
-arr=[]
-for i in range(num):
-    arr.append(list(map(int,input().split())))
-count1=0
-count2=0
-for i in range(num):
-    for j in range(num):
-        if arr[i][j]%2==0:
-            count1+=1
+# Day 13
+# Problem: Uniformity Matrix
+# Topic: Python Matrices
+# Language: Python
+
+n = int(input())
+matrix = []
+
+# Reading the matrix
+for _ in range(n):
+    matrix.append(list(map(int, input().split())))
+
+even_count = 0
+odd_count = 0
+
+# Counting even and odd elements
+for i in range(n):
+    for j in range(n):
+        if matrix[i][j] % 2 == 0:
+            even_count += 1
         else:
-            count2+=1
-if num2==count1 or num2==count2:
+            odd_count += 1
+
+# Checking uniformity
+if even_count == n * n or odd_count == n * n:
     print("Yes")
 else:
     print("No")
-
