@@ -1,8 +1,9 @@
-num=int(input())
-arr=[]
-for i in range(num):
-    arr.append(input().strip())
-for j in arr:
-    sorted_string = ''.join(sorted(j, reverse=True))
+n = int(input())
+strings = []
+
+for _ in range(n):
+    strings.append(input().strip())
+
+for s in strings:
+    sorted_string = ''.join(sorted(s, reverse=True))
     print(sorted_string)
-    
