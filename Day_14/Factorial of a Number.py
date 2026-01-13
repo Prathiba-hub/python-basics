@@ -1,3 +1,10 @@
 import math
-num=int(input())
-print(f"The factorial of {num} is {math.factorial(num)}")
+
+# Read input from user
+num = int(input())
+
+# Calculate factorial
+result = math.factorial(num)
+
+# Display output
+print(f"The factorial of {num} is {result}")
