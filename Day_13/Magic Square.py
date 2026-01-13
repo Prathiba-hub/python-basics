@@ -1,20 +1,21 @@
-num=int(input())
-num2=num
-arr=[]
-for i in range(num):
-    arr.append(list(map(int,input().split())))
-add1=0
-add2=0
-for i in range(num):
-    ans=arr[i]
-    add1+=ans[i]
-for i in range(num):
-    ans1=arr[i]
-    add2+=ans1[num2-1]
-    num2-=1
-if add1==add2:
-    print("Yes")
-else:
-    print("No")
-        
-        
+# Day 13
+# Problem: Magic Square
+# Topic: Python Matrices
+# Language: Python
+
+n = int(input())
+matrix = []
+
+# Reading the square matrix
+for _ in range(n):
+    matrix.append(list(map(int, input().split())))
+
+zigzag_sum = 0
+
+for i in range(n):
+    if i == 0 or i == n - 1:
+        zigzag_sum += sum(matrix[i])   # First and last row
+    else:
+        zigzag_sum += matrix[i][1]     # Middle element of other rows
+
+print(f"Sum of Zig-Zag pattern is {zigzag_sum}")
